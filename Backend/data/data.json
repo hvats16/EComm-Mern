@@ -1,0 +1,401 @@
+[
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Size: S",
+            "Size: M",
+            "Size: L"
+        ],
+        "name": "T-Shirt",
+        "description": "A comfortable and stylish t-shirt made from high-quality fabric.",
+        "_id": "60b5c5c2a76d4a001f0f55e9",
+        "Productid": "TS001",
+        "Quantity": "50",
+        "Rating": 4.2,
+        "brandName": "ABC Apparel"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Red",
+            "Color: Blue",
+            "Color: Green"
+        ],
+        "name": "Backpack",
+        "description": "A durable and spacious backpack for everyday use.",
+        "_id": "60b5c5c2a76d4a001f0f55ea",
+        "Productid": "BP001",
+        "Quantity": "20",
+        "Rating": 4.8,
+        "brandName": "XYZ Bags"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Size: 8",
+            "Size: 9",
+            "Size: 10"
+        ],
+        "name": "Running Shoes",
+        "description": "Lightweight and comfortable shoes for running and sports activities.",
+        "_id": "60b5c5c2a76d4a001f0f55eb",
+        "Productid": "RS001",
+        "Quantity": "30",
+        "Rating": 4.5,
+        "brandName": "SportsCo"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Capacity: 500GB",
+            "Capacity: 1TB",
+            "Capacity: 2TB"
+        ],
+        "name": "External Hard Drive",
+        "description": "Store and back up your important files with this reliable external hard drive.",
+        "_id": "60b5c5c2a76d4a001f0f55ec",
+        "Productid": "HD001",
+        "Quantity": "15",
+        "Rating": 4.7,
+        "brandName": "Tech Storage"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Brown",
+            "Color: Tan"
+        ],
+        "name": "Leather Wallet",
+        "description": "A stylish and functional wallet made from genuine leather.",
+        "_id": "60b5c5c2a76d4a001f0f55ed",
+        "Productid": "WL001",
+        "Quantity": "40",
+        "Rating": 4.4,
+        "brandName": "Luxury Accessories"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: White",
+            "Color: Gray",
+            "Color: Navy"
+        ],
+        "name": "Wireless Headphones",
+        "description": "Enjoy your favorite music with these high-quality wireless headphones.",
+        "_id": "60b5c5c2a76d4a001f0f55ee",
+        "Productid": "WH001",
+        "Quantity": "25",
+        "Rating": 4.3,
+        "brandName": "Gourmet Treats"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Silver",
+            "Color: Gold"
+        ],
+        "name": "Smartwatch",
+        "description": "Stay connected and track your fitness with this sleek smartwatch.",
+        "_id": "60b5c5c2a76d4a001f0f55ef",
+        "Productid": "SW001",
+        "Quantity": "10",
+        "Rating": 4.6,
+        "brandName": "Tech Wearables"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Size: 32GB",
+            "Size: 64GB",
+            "Size: 128GB"
+        ],
+        "name": "USB Flash Drive",
+        "description": "Transfer and store your files with this compact and reliable USB flash drive.",
+        "_id": "60b5c5c2a76d4a001f0f55f0",
+        "Productid": "FD001",
+        "Quantity": "50",
+        "Rating": 4.1,
+        "brandName": "Data Solutions"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Blue",
+            "Color: Pink",
+            "Color: Green"
+        ],
+        "name": "Water Bottle",
+        "description": "Stay hydrated on the go with this leak-proof and BPA-free water bottle.",
+        "_id": "60b5c5c2a76d4a001f0f55f1",
+        "Productid": "WB001",
+        "Quantity": "35",
+        "Rating": 4.9,
+        "brandName": "Hydration Essentials"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Silver",
+            "Color: Rose Gold"
+        ],
+        "name": "Bluetooth Speaker",
+        "description": "Enjoy high-quality audio and wireless convenience with this portable Bluetooth speaker.",
+        "_id": "60b5c5c2a76d4a001f0f55f2",
+        "Productid": "SP001",
+        "Quantity": "15",
+        "Rating": 4.5,
+        "brandName": "Audio Pro"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Red",
+            "Color: Blue",
+            "Color: Yellow"
+        ],
+        "name": "Cycling Helmet",
+        "description": "Stay safe on your cycling adventures with this lightweight and well-ventilated helmet.",
+        "_id": "60b5c5c2a76d4a001f0f55f3",
+        "Productid": "CH001",
+        "Quantity": "20",
+        "Rating": 4.7,
+        "brandName": "SportGear"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: White",
+            "Color: Gray"
+        ],
+        "name": "Bluetooth Earphones",
+        "description": "Experience wireless audio freedom with these comfortable Bluetooth earphones.",
+        "_id": "60b5c5c2a76d4a001f0f55f8",
+        "Productid": "BE001",
+        "Quantity": "25",
+        "Rating": 4.3,
+        "brandName": "AudioTech"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Red",
+            "Color: Blue",
+            "Color: Green"
+        ],
+        "name": "Gaming Mouse",
+        "description": "Enhance your gaming experience with this high-precision gaming mouse.",
+        "_id": "60b5c5c2a76d4a001f0f55f9",
+        "Productid": "GM001",
+        "Quantity": "30",
+        "Rating": 4.7,
+        "brandName": "Gaming Gear"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Size: 16GB",
+            "Size: 32GB",
+            "Size: 64GB"
+        ],
+        "name": "Portable SSD",
+        "description": "Carry your data with you wherever you go with this compact and fast portable SSD.",
+        "_id": "60b5c5c2a76d4a001f0f55fa",
+        "Productid": "PS001",
+        "Quantity": "40",
+        "Rating": 4.6,
+        "brandName": "Data Solutions"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Silver",
+            "Color: Gold"
+        ],
+        "name": "Smartphone",
+        "description": "Stay connected with the latest features and technology in this sleek smartphone.",
+        "_id": "60b5c5c2a76d4a001f0f55fb",
+        "Productid": "SP001",
+        "Quantity": "50",
+        "Rating": 4.8,
+        "brandName": "Tech Mobile"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Brown",
+            "Color: Tan"
+        ],
+        "name": "Leather Jacket",
+        "description": "Make a fashion statement with this classic leather jacket.",
+        "_id": "60b5c5c2a76d4a001f0f55fc",
+        "Productid": "LJ001",
+        "Quantity": "35",
+        "Rating": 4.5,
+        "brandName": "Fashion Trends"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Size: Small",
+            "Size: Medium",
+            "Size: Large"
+        ],
+        "name": "Sports Shoes",
+        "description": "Achieve your fitness goals with these comfortable and supportive sports shoes.",
+        "_id": "60b5c5c2a76d4a001f0f55fd",
+        "Productid": "SS001",
+        "Quantity": "30",
+        "Rating": 4.4,
+        "brandName": "Athletic Gear"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: Brown",
+            "Color: Navy"
+        ],
+        "name": "Leather Backpack",
+        "description": "Carry your essentials in style with this versatile and durable leather backpack.",
+        "_id": "60b5c5c2a76d4a001f0f55fe",
+        "Productid": "LB001",
+        "Quantity": "20",
+        "Rating": 4.7,
+        "brandName": "Fashion Bags"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Capacity: 8GB",
+            "Capacity: 16GB",
+            "Capacity: 32GB"
+        ],
+        "name": "RAM Memory",
+        "description": "Boost your computer's performance with this high-speed and reliable RAM memory module.",
+        "_id": "60b5c5c2a76d4a001f0f55ff",
+        "Productid": "RM001",
+        "Quantity": "25",
+        "Rating": 4.3,
+        "brandName": "Tech Components"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Black",
+            "Color: White",
+            "Color: Gray"
+        ],
+        "name": "Wireless Keyboard",
+        "description": "Elevate your typing experience with this ergonomic and wireless keyboard.",
+        "_id": "60b5c5c2a76d4a001f0f5600",
+        "Productid": "WK001",
+        "Quantity": "35",
+        "Rating": 4.6,
+        "brandName": "Tech Peripherals"
+    },
+    {
+        "listOfImages": [
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/30/3/asset/6eb636032da7/sub-buzz-2696-1580355430-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/20/campaign_images/b44f5ba68fb6/15-of-the-most-random-and-cool-products-you-can-b-2-524-1592340691-0_dblbig.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/16/campaign_images/348ba8bac7a5/30-cool-and-random-products-youll-probably-use-se-2-24127-1600963495-17_dblbig.jpg?resize=1200:*"
+        ],
+        "options": [
+            "Color: Red",
+            "Color: Blue",
+            "Color: Green"
+        ],
+        "name": "Hiking Backpack",
+        "description": "Embark on outdoor adventures with this spacious and durable hiking backpack.",
+        "_id": "60b5c5c2a76d4a001f0f5601",
+        "Productid": "HB001",
+        "Quantity": "30",
+        "Rating": 4.5,
+        "brandName": "Outdoor Gear"
+    }
+]
