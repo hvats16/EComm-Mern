@@ -1,0 +1,6 @@
+.product-card {
+	display: flex;
+    flex-basis: 23%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
